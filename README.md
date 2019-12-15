@@ -5,3 +5,4 @@ Test commit.A
 A
 A
 A
+A
