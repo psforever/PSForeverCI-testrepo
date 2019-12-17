@@ -1,4 +1,4 @@
-object PsLogin {
+object PsLogin 
   def main(args : Array[String]) : Unit = {
     if (args.length >= 1) {
       args(0) match {
